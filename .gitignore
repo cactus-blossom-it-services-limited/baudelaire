@@ -20,6 +20,6 @@ Vagrantfile.local
 # /config.yml
 /default.config.yml
 /docker-compose.yml
-/drupal.make.yml
+# /drupal.make.yml
 /scripts/
 /drupal/
